@@ -44,3 +44,4 @@ Differences are paired by run (same ω, same rewards) and called significant whe
 ## Reference
 
 Tang, Li, Scheller-Wolf & Tayur, *multi-armed bandits with endogenous learning curves* (see the project folder for the paper).
+Schrem H, et al. Long-term results after adult ex situ split liver transplantation since its introduction in 1987. World Journal of Surgery. 2014. DOI: 10.1007/s00268-013-2444-4
